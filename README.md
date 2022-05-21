@@ -39,7 +39,7 @@ You can follow me on the socials, below 👇.
  <a href="">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="http://wa.me/01028941647?text=Hello Hany">
+<a href="http://wa.me/+20 01028941647?text=Hello Hany">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 

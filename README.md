@@ -39,7 +39,7 @@ You can follow me on the socials, below 👇.
  <a href="https://www.linkedin.com/in/hany-sameh-246538209">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="http://wa.me/+20 01028941647?text=Hello Hany">
+<a href="http://wa.me/+20 01028941647?text=Hello Hany Sameh">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 	<a href="https://facebook.com/hanysameh23" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </a>&nbsp;&nbsp;

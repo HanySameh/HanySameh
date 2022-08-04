@@ -44,8 +44,16 @@ You can follow me on the socials, below 👇.
 	<a href="https://facebook.com/hanysameh23" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </a>&nbsp;&nbsp;
 
+### Skills
+
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
 
 
+### Badges
+<a href="http://www.github.com/HanySameh"><img src="https://github-readme-stats.vercel.app/api?username=HanySameh&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="amirbayat0's GitHub stats" /></a>
 
 
 

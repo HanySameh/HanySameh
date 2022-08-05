@@ -13,7 +13,7 @@
 
 <br><br>
 Hello Everyone 👋, My name is Hany. I'm Computer Science Student👨‍💻
-I’m interested in software engineering and technology. Presently, I'm developing apps with Flutter.
+I’m interested in software engineering and technology. Presently, I'm developing apps and website with Flutter.
 You can follow me on the socials, below 👇.
 
 <br><br>

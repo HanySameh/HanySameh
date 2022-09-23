@@ -53,6 +53,6 @@ You can follow me on the socials, below 👇.
 
 <img src="https://komarev.com/ghpvc/?username=HanySameh0&label=Profile%20views&color=8042fc&style=plastic" alt="HanySameh" /> 
 
-
+<img src="https://img.shields.io/github/followers/HanySameh.svg?style=social&label=Follow&maxAge=2592000" alt="HanySameh" /> 
 
 

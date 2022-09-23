@@ -54,5 +54,7 @@ You can follow me on the socials, below 👇.
 <img src="https://komarev.com/ghpvc/?username=HanySameh0&label=Profile%20views&color=8042fc&style=plastic" alt="HanySameh" /> 
 
 <img src="https://img.shields.io/github/followers/HanySameh.svg?style=social&label=Follow&maxAge=2592000" alt="HanySameh" /> 
+	
+<!-- <a href="http://www.github.com/HanySameh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanySameh&theme=blue-green" alt="HanySameh's GitHub stats" /></a> -->
 
 

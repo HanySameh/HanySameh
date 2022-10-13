@@ -54,6 +54,8 @@ You can follow me on the socials, below 👇.
 ### Badges
 <a href="http://www.github.com/HanySameh"><img src="https://github-readme-stats.vercel.app/api?username=HanySameh&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="HanySameh's GitHub stats" /></a>
 
+<!-- <a href="http://www.github.com/HanySameh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanySameh&theme=blue-green" alt="HanySameh's GitHub stats" /></a> -->
+ 	
 <img src="https://komarev.com/ghpvc/?username=HanySameh0&label=Profile%20views&color=8042fc&style=plastic" alt="HanySameh" /> 
 
 <img src="https://img.shields.io/github/followers/HanySameh.svg?style=social&label=Follow&maxAge=2592000" alt="HanySameh" /> 

@@ -13,10 +13,6 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tO1YrawhNr0KXq-KFzN2vLyGw0E0T5rA/view?usp=drivesdk)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hanysameh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanysameh11" height="30" width="40" /></a>

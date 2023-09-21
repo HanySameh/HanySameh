@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **hanysameh506@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tO1YrawhNr0KXq-KFzN2vLyGw0E0T5rA/view?usp=drivesdk)
-
 - [My Portfolio](https://hanysameh.github.io/MyPortfolio/#/)
 
 <h3 align="left">Connect with me:</h3>

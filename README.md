@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanysameh" alt="hanysameh" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/@hanysameh11" target="blank"><img src="https://img.shields.io/twitter/follow/@hanysameh11?logo=twitter&style=for-the-badge" alt="@hanysameh11" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@hanysameh11" target="blank"><img src="https://img.shields.io/twitter/follow/@hanysameh11?logo=twitter&style=for-the-badge" alt="@hanysameh11" /></a> </p> -->
 
 - 📫 How to reach me **hanysameh506@gmail.com**
 

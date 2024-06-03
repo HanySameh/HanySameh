@@ -38,7 +38,11 @@ Eatwise a healthy eating app in Saudi Arabia, offering nutritious and delicious 
 <hr>
 
 ### Fitness Pro 
-In progress
+تطبيق يهدف إلى توفير وسيلة مريحة وفعالة للأفراد لتحسين لياقتهم البدنية والصحة العامة. يتيح هذا التطبيق للمستخدمين الوصول إلى مجموعة متنوعة من الممارسات الرياضية وبرامج التمرين والموارد الصحية من خلال أجهزتهم الذكية. تشمل ميزات التطبيق عادة:
+
+- برامج تمارين متنوعة: يقدم التطبيق مجموعة متنوعة من التمارين الرياضية والبرامج المخصصة لمختلف مستويات اللياقة البدنية وأهداف الصحة.
+- تتبع النشاط البدني: يمكن للمستخدمين تسجيل تقدمهم البدني والنشاطات التي يمارسونها، مثل المشي والركض وركوب الدراجات.
+- جداول غذائية: يمكن أن يقدم التطبيق أيضًا نصائح غذائية وجداول للوجبات الصحية لمساعدة المستخدمين على تحقيق أهدافهم الغذائية.
 <p>
  <a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 

@@ -33,7 +33,7 @@
 ### Eat Wise | ايت وايز
 Eatwise a healthy eating app in Saudi Arabia, offering nutritious and delicious options for a healthy lifestyle.
 <p>
- <a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+ <a href="https://play.google.com/store/apps/details?id=com.hs.eatwise" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
  <a href="https://apps.apple.com/eg/app/eat-wise/id6502425571" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
  <p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hany Sameh</h1>
 <h3 align="center">A passionate mobile app developer from Egypt</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Software+Engineer;Mobile+App+Develper&center=true&width=500&height=50"></a> </p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Mobile+App+Develper&center=true&width=500&height=50"></a> </p>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanysameh&label=Profile%20views&color=0e75b6&style=flat" alt="hanysameh" /> </p>
 

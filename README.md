@@ -51,9 +51,9 @@ Eatwise a healthy eating app in Saudi Arabia, offering nutritious and delicious 
 <hr>
 
 ### TRK 
-مؤسسة شغل للخدمات اللوجستية ، 3706 حي الروضة ، 8742 ، الخفجي
+TRK APP هو التطبيق المثالي الذي يجمع بين خدمات النقل والصيانة في مكان واحد، مما يضمن لك سهولة الوصول إلى الشاحنات والفنيين القريبين منك وتتبعهم عبر نظام التراكنج المتقدم حتى وصولهم إليك! 🚛🔧
 <p>
- <a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ <a href="https://play.google.com/store/apps/details?id=com.hs.trknew" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/trk/id6745418060" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr />
     <h3 align="left">Languages and Tools:</h3>

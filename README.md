@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hanysameh506@gmail.com**
 
-- [My Portfolio](https://hanysameh.github.io/MyPortfolio/#/)
+- [My Portfolio](https://www.hanysameh.info/)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">

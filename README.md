@@ -1,259 +1,337 @@
-<h1 align="center">Hi 👋, I'm Hany Sameh</h1>
-<h3 align="center">A passionate mobile app developer from Egypt</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Mobile+App+Develper&center=true&width=500&height=50"></a> </p>
-    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanysameh&label=Profile%20views&color=0e75b6&style=flat" alt="hanysameh" /> </p>
+<div align="center">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanysameh" alt="hanysameh" /></a> </p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E0193A&height=200&section=header&text=Hany%20Sameh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Open%20Source%20Author&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- <p align="left"> <a href="https://twitter.com/@hanysameh11" target="blank"><img src="https://img.shields.io/twitter/follow/@hanysameh11?logo=twitter&style=for-the-badge" alt="@hanysameh11" /></a> </p> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0193A&center=true&vCenter=true&width=650&lines=Building+apps+that+actually+ship+%F0%9F%9A%80;Flutter+%7C+Dart+%7C+Django+%7C+Python;Published+packages+on+pub.dev+%F0%9F%93%A6;Clean+Architecture+%7C+Real-time+Apps" alt="Typing SVG"/>
 
-- 📫 How to reach me **hanysameh506@gmail.com**
+<br/>
 
-- [My Portfolio](https://www.hanysameh.info/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hanysameh.info-E0193A?style=for-the-badge&labelColor=0d0d0d)](https://www.hanysameh.info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E0193A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/hanysameh)
+[![Gmail](https://img.shields.io/badge/Email-hanysameh506-E0193A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:hanysameh506@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@hanysameh-E0193A?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://twitter.com/hanysameh)
+[![pub.dev](https://img.shields.io/badge/pub.dev-hanysameh.info-E0193A?style=for-the-badge&logo=dart&logoColor=white&labelColor=0d0d0d)](https://pub.dev/publishers/hanysameh.info/packages)
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@hanysameh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hanysameh11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hany-sameh-246538209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hany-sameh-246538209" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19780111/hany-sameh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19780111/hany-sameh" height="30" width="40" /></a>
-<a href="https://fb.com/hanysameh23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hanysameh23" height="30" width="40" /></a>
-<a href="https://instagram.com/hany_sameh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hany_sameh_" height="30" width="40" /></a>
-<a href="https://medium.com/@hanysameh506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hanysameh506" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hanysameh506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hanysameh506" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hanysameh506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hanysameh506" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hanysameh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hanysameh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hanysam4fhb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hanysam4fhb" height="30" width="40" /></a>
-</p> -->
-<hr>
+<img src="https://komarev.com/ghpvc/?username=HanySameh&style=for-the-badge&color=E0193A&labelColor=0d0d0d&label=PROFILE+VIEWS"/>
 
-<h2> Samples from my projects </h2>
+</div>
 
-### Eat Wise | ايت وايز
-Eatwise a healthy eating app in Saudi Arabia, offering nutritious and delicious options for a healthy lifestyle.
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.hs.eatwise" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
- <a href="https://apps.apple.com/eg/app/eat-wise/id6502425571" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
- <p>
+<br/>
 
-<hr>
+---
 
-### Fitness Pro 
-تطبيق يهدف إلى توفير وسيلة مريحة وفعالة للأفراد لتحسين لياقتهم البدنية والصحة العامة. يتيح هذا التطبيق للمستخدمين الوصول إلى مجموعة متنوعة من الممارسات الرياضية وبرامج التمرين والموارد الصحية من خلال أجهزتهم الذكية. تشمل ميزات التطبيق عادة:
+## 🙋‍♂️ About Me
 
-- برامج تمارين متنوعة: يقدم التطبيق مجموعة متنوعة من التمارين الرياضية والبرامج المخصصة لمختلف مستويات اللياقة البدنية وأهداف الصحة.
-- تتبع النشاط البدني: يمكن للمستخدمين تسجيل تقدمهم البدني والنشاطات التي يمارسونها، مثل المشي والركض وركوب الدراجات.
-- جداول غذائية: يمكن أن يقدم التطبيق أيضًا نصائح غذائية وجداول للوجبات الصحية لمساعدة المستخدمين على تحقيق أهدافهم الغذائية.
-<p>
- <a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+Hey! I'm **Hany** — a Senior Flutter Developer based in **Egypt** 🇪🇬
 
-<hr>
+I build production-grade mobile apps for Android & iOS that are fast, maintainable, and built to last. I care deeply about clean architecture, real performance (not just "it works"), and writing code that teams can own long-term.
 
-### TRK 
-TRK APP هو التطبيق المثالي الذي يجمع بين خدمات النقل والصيانة في مكان واحد، مما يضمن لك سهولة الوصول إلى الشاحنات والفنيين القريبين منك وتتبعهم عبر نظام التراكنج المتقدم حتى وصولهم إليك! 🚛🔧
-<p>
- <a href="https://play.google.com/store/apps/details?id=com.hs.trknew" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/trk/id6745418060" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+Currently leading mobile at **Tajadud** — doing architecture decisions, code reviews, and mentoring. I've also published open-source Flutter packages used by developers worldwide on **[pub.dev](https://pub.dev/publishers/hanysameh.info/packages)**.
 
-<hr />
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-          alt="c"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-          alt="cplusplus"
-          width="40"
-          height="40"
-        />
-      </a>
-      <!-- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-          alt="csharp"
-          width="40"
-          height="40"
-        />
-      </a> -->
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-          alt="dart"
-          width="40"
-          height="40"
-        />
-      </a>
-      <!-- <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-          alt="dotnet"
-          width="40"
-          height="40"
-        />
-      </a> -->
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-          alt="firebase"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-          alt="flutter"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
-          width="40"
-          height="40"
-        />
-      </a>
-      <!-- <a
-        href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-          alt="mssql"
-          width="40"
-          height="40"
-        />
-      </a> -->
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-          alt="php"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-          alt="postman"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-          alt="sqlite"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.apple.com/swift/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-          alt="swift"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
-<hr />
+```dart
+class HanySameh {
+  final String role      = "Senior Flutter Developer";
+  final String location  = "Mansoura, Egypt 🇪🇬";
+  final String website   = "https://www.hanysameh.info";
+  final String pubDev    = "https://pub.dev/publishers/hanysameh.info";
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanysameh&show_icons=true&locale=en&layout=compact" alt="hanysameh" /></p> -->
+  final List<String> loves = [
+    "Clean Architecture 🏛️",
+    "Real-time features ⚡",
+    "Performance optimization 🔥",
+    "Open source 📦",
+    "Mentoring developers 🤝",
+  ];
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanysameh&show_icons=true&locale=en" alt="hanysameh" /></p>
+  final Map<String, String> currentlyLearning = {
+    "Flutter Internals": "Custom RenderObjects & the 3 trees",
+    "System Design":     "Large-scale mobile architecture",
+    "iOS Native":        "Swift & SwiftUI",
+    "Testing":           "TDD with Flutter",
+  };
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanysameh&" alt="hanysameh" /></p>
+  String get funFact =>
+    "Built TRK solo — Flutter app + Django backend + real-time GPS 🚗";
+}
+```
 
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Social Contact
-<p align='center'>
-<a href="https://twitter.com/hanysameh11">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/hany_sameh_/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
-<a href="mailto:hanysameh506@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
- <a href="https://www.linkedin.com/in/hany-sameh-246538209">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="http://wa.me/+20 01011901444?text=Hello Hany Sameh">
-  <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-	<a href="https://facebook.com/hanysameh23" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-	<!-- <a href="https://codeforces.com/profile/hanysameh506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hanysameh506" height="30" width="40" /></a> -->
-</a>&nbsp;&nbsp;
+---
+
+## 🛠️ Tech Stack
+
+**📱 Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=E0193A)
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=E0193A)
+![Android](https://img.shields.io/badge/Android-0d0d0d?style=for-the-badge&logo=android&logoColor=E0193A)
+![iOS](https://img.shields.io/badge/iOS-0d0d0d?style=for-the-badge&logo=apple&logoColor=E0193A)
+
+**🧠 State Management & Architecture**
+
+![Bloc](https://img.shields.io/badge/Bloc-0d0d0d?style=for-the-badge&logo=flutter&logoColor=E0193A)
+![Riverpod](https://img.shields.io/badge/Riverpod-0d0d0d?style=for-the-badge&logo=flutter&logoColor=E0193A)
+![Provider](https://img.shields.io/badge/Provider-0d0d0d?style=for-the-badge&logo=flutter&logoColor=E0193A)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d0d0d?style=for-the-badge&logoColor=E0193A)
+![MVVM](https://img.shields.io/badge/MVVM-0d0d0d?style=for-the-badge&logoColor=E0193A)
+
+**⚙️ Backend & Databases**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=E0193A)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=E0193A)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=E0193A)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=E0193A)
+![Hive](https://img.shields.io/badge/Hive-0d0d0d?style=for-the-badge&logo=flutter&logoColor=E0193A)
+
+**🔗 APIs & Real-time**
+
+![REST API](https://img.shields.io/badge/REST_APIs-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=E0193A)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d0d0d?style=for-the-badge&logo=socket.io&logoColor=E0193A)
+![Pusher](https://img.shields.io/badge/Pusher-0d0d0d?style=for-the-badge&logo=pusher&logoColor=E0193A)
+![Google Maps](https://img.shields.io/badge/Google_Maps-0d0d0d?style=for-the-badge&logo=google-maps&logoColor=E0193A)
+
+**🧰 Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=E0193A)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=github-actions&logoColor=E0193A)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=E0193A)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=E0193A)
+![Play Store](https://img.shields.io/badge/Play_Store-0d0d0d?style=for-the-badge&logo=google-play&logoColor=E0193A)
+![App Store](https://img.shields.io/badge/App_Store-0d0d0d?style=for-the-badge&logo=apple&logoColor=E0193A)
+
+<br/>
+
+---
+
+## 📦 Open Source — pub.dev Packages
+
+> Verified publisher at [pub.dev/publishers/hanysameh.info](https://pub.dev/publishers/hanysameh.info/packages)
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 icon_broken
+
+[![pub version](https://img.shields.io/pub/v/icon_broken?style=flat-square&color=E0193A&labelColor=0d0d0d&logo=dart&logoColor=white)](https://pub.dev/packages/icon_broken)
+[![pub points](https://img.shields.io/pub/points/icon_broken?style=flat-square&color=E0193A&labelColor=0d0d0d)](https://pub.dev/packages/icon_broken/score)
+[![likes](https://img.shields.io/pub/likes/icon_broken?style=flat-square&color=E0193A&labelColor=0d0d0d)](https://pub.dev/packages/icon_broken)
+[![downloads](https://img.shields.io/pub/dm/icon_broken?style=flat-square&color=E0193A&labelColor=0d0d0d)](https://pub.dev/packages/icon_broken)
+
+A beautiful icon pack for Flutter — clean, modern icons ready to drop into any project. Cross-platform support: Android, iOS, Web, macOS, Linux, Windows.
+
+```yaml
+# pubspec.yaml
+dependencies:
+  icon_broken: ^1.1.0
+```
+
+```dart
+import 'package:icon_broken/icon_broken.dart';
+
+Icon(IconBroken.Heart)
+```
+
+[![View on pub.dev](https://img.shields.io/badge/pub.dev-icon__broken-E0193A?style=flat-square&labelColor=0d0d0d&logo=dart&logoColor=white)](https://pub.dev/packages/icon_broken)
+[![GitHub](https://img.shields.io/badge/GitHub-source-E0193A?style=flat-square&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/HanySameh/IconBroakenPackage)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 flutter_ui_inspector
+
+[![pub version](https://img.shields.io/pub/v/flutter_ui_inspector?style=flat-square&color=E0193A&labelColor=0d0d0d&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_ui_inspector)
+[![pub points](https://img.shields.io/pub/points/flutter_ui_inspector?style=flat-square&color=E0193A&labelColor=0d0d0d)](https://pub.dev/packages/flutter_ui_inspector/score)
+[![likes](https://img.shields.io/pub/likes/flutter_ui_inspector?style=flat-square&color=E0193A&labelColor=0d0d0d)](https://pub.dev/packages/flutter_ui_inspector)
+
+Debug-only UI inspector for Flutter. Tracks widget rebuilds, visualizes state badges, shows FPS & jank frames, and surfaces a draggable floating panel — all stripped in release mode.
+
+```yaml
+# pubspec.yaml
+dependencies:
+  flutter_ui_inspector: ^1.1.0
+```
+
+```dart
+UiInspector(
+  name: 'UserList',
+  loading: isLoading,
+  child: ListView(...),
+)
+```
+
+[![View on pub.dev](https://img.shields.io/badge/pub.dev-flutter__ui__inspector-E0193A?style=flat-square&labelColor=0d0d0d&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_ui_inspector)
+[![GitHub](https://img.shields.io/badge/GitHub-source-E0193A?style=flat-square&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/HanySameh/flutter_ui_inspector)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanySameh&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=E0193A&icon_color=E0193A&title_color=ffffff&text_color=aaaaaa&rank_icon=github&hide_border=false"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanySameh&layout=compact&theme=dark&bg_color=0d0d0d&border_color=E0193A&title_color=ffffff&text_color=aaaaaa&hide_border=false"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=HanySameh&theme=dark&background=0d0d0d&border=E0193A&ring=E0193A&fire=E0193A&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanySameh&bg_color=0d0d0d&color=aaaaaa&line=E0193A&point=ffffff&area=true&area_color=E0193A&hide_border=false&border_color=E0193A&radius=8"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 TRK
+**Transportation & Maintenance Platform**
+
+Real-time transportation app with live GPS. Built **everything** solo — Flutter frontend + Python/Django backend + WebSocket GPS streaming.
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=E0193A)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=E0193A)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d0d0d?style=flat-square&logo=socket.io&logoColor=E0193A)
+![Maps](https://img.shields.io/badge/Maps-0d0d0d?style=flat-square&logo=google-maps&logoColor=E0193A)
+
+[![Play Store](https://img.shields.io/badge/▶_Play_Store-E0193A?style=flat-square&labelColor=0d0d0d)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/▶_App_Store-E0193A?style=flat-square&labelColor=0d0d0d)](https://apps.apple.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥗 Eat Wise
+**Healthy Eating App — Saudi Arabia**
+
+Production app with real users. Performance profiling, analytics-driven UX, responsive layouts.
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=E0193A)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=E0193A)
+![Analytics](https://img.shields.io/badge/Analytics-0d0d0d?style=flat-square&logo=google-analytics&logoColor=E0193A)
+
+[![Play Store](https://img.shields.io/badge/▶_Play_Store-E0193A?style=flat-square&labelColor=0d0d0d)](https://play.google.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚖 Fast
+**Ride-Sharing Application**
+
+Feature-first clean architecture. Built to scale across multiple dev teams with clear boundaries and full DI.
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=E0193A)
+![Bloc](https://img.shields.io/badge/Bloc-0d0d0d?style=flat-square&logo=flutter&logoColor=E0193A)
+![Maps](https://img.shields.io/badge/Maps-0d0d0d?style=flat-square&logo=google-maps&logoColor=E0193A)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Al Rodwan
+**Automotive E-Commerce App**
+
+Spare parts marketplace — search, cart, multi-step checkout, order tracking. Live on both stores.
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=E0193A)
+![REST](https://img.shields.io/badge/REST_API-0d0d0d?style=flat-square&logo=fastapi&logoColor=E0193A)
+
+[![Play Store](https://img.shields.io/badge/▶_Play_Store-E0193A?style=flat-square&labelColor=0d0d0d)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/▶_App_Store-E0193A?style=flat-square&labelColor=0d0d0d)](https://apps.apple.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💱 Insta Price
+**Real-Time Currency & Gold Tracker**
+
+Live exchange rates and gold prices with WebSocket feeds, historical charts, and price alerts.
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=E0193A)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d0d0d?style=flat-square&logo=socket.io&logoColor=E0193A)
+
+[![Play Store](https://img.shields.io/badge/▶_Play_Store-E0193A?style=flat-square&labelColor=0d0d0d)](https://play.google.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 Good Doctor
+**Medical Exam Preparation**
+
+Structured content and practice tests for medical students preparing for clinical exams.
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=E0193A)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=E0193A)
+
+[![Play Store](https://img.shields.io/badge/▶_Play_Store-E0193A?style=flat-square&labelColor=0d0d0d)](https://play.google.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🔨 Building     →  Leading mobile development at Tajadud
+📦 Open Source  →  Maintaining icon_broken & flutter_ui_inspector on pub.dev
+📖 Learning     →  iOS native
+🤝 Open to      →  Collaborating on Flutter open-source projects
+```
+
+> If you're using one of my packages and hit a bug — open an issue, I respond.
+> If you're building something with Flutter and need a hand — let's talk.
+
+<br/>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanysameh.info-E0193A?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://www.hanysameh.info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hanysameh-E0193A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/hanysameh)
+[![Twitter](https://img.shields.io/badge/Twitter-@hanysameh-E0193A?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://twitter.com/hanysameh)
+[![Gmail](https://img.shields.io/badge/Gmail-hanysameh506-E0193A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:hanysameh506@gmail.com)
+[![pub.dev](https://img.shields.io/badge/pub.dev-packages-E0193A?style=for-the-badge&logo=dart&logoColor=white&labelColor=0d0d0d)](https://pub.dev/publishers/hanysameh.info/packages)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E0193A&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<sub>
+  Built with ❤️ in Egypt &nbsp;·&nbsp;
+  <a href="https://www.hanysameh.info">hanysameh.info</a> &nbsp;·&nbsp;
+  <a href="https://pub.dev/publishers/hanysameh.info/packages">pub.dev</a>
+</sub>
+</div>
